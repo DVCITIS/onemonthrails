@@ -1,5 +1,20 @@
-$body-bg: #ecf0f1;
-$navbar-inverse-bg:white;
-$navbar-inverse-link-color:#7f8c8d;
-$brand-primary:#9b59b6;
+$body-bg: #FAFFF5;
+$navbar-inverse-bg:#222A2A;
+$navbar-inverse-link-color:white;
+$brand-primary:#7C336A;
+$font-family-sans-serif:"Trebuchet MS", Helvetica, sans-serif;
+$jumbotron-bg:#FAFFF5;
+
+
+
+
+
 @import 'bootstrap';
+
+.center{
+	text-align: center;
+}
+
+.navbar-brand{
+	font-weight:bold;
+}
